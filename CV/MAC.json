@@ -104,6 +104,48 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "D3",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Redux-Saga",
+          "type": "technology"
+        },
+        {
+          "name": "StyledComponents",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer"
       ]
