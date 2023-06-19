@@ -11,35 +11,25 @@
       "title": "Frontend developer at WebCargo by Freightos",
       "description": "Hey! I'm Manuel, a Spanish Frontend developer with 4.5 years of experience. Last three years I've been working with React, but my first year and a half was a combination of HTML, CSS, jQuery, and Hybris + Liferay.\nA little over two years ago, I started to work with React + TypeScript, with styled-components for the layout and the good of our view 😅\nNow, I'm looking for a new challenge where I can keep growing personally and professionally and have the opportunity to work in English in my day-to-day life.",
       "avatar": {
-        "alt": "rExzsi5B_400x400.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/70273a40-707c-4594-8cb4-fb6785a909a6_rexzsi5b_400x400.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/70273a40-707c-4594-8cb4-fb6785a909a6_rexzsi5b_400x400.jpeg",
+        "alt": "rExzsi5B_400x400.jpeg"
       },
       "location": {
-        "country": "Suecia",
-        "region": "Provincia de Västra Götaland",
-        "municipality": "Gotemburgo",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/manueldevjour"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/manuel-cerezo/"
-      }
-    ]
+    }
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -52,31 +42,25 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
           "type": "technology"
         }
       },
@@ -91,6 +75,32 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -98,8 +108,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/manuel-cerezo/"
+          "URL": "https://www.linkedin.com/in/manuel-cerezo/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/manueldevjour",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "manueldevjour@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "617575970",
+          "countryCode": "+34"
         }
       ]
     },
@@ -151,5 +174,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My ideal job would allow me to work in a team where everyone can contribute in the areas they know the most, mixing a group of different people that can create and improve a product. I would love to work in a place where everyone is easily accessible, no matter what department you are working for, so communication is easy. \nAlso, having the capacity of working in another language than my mother tongue would be ideal for me."
   }
 }
