@@ -48,6 +48,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Astro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -85,6 +91,12 @@
       {
         "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       },
@@ -170,6 +182,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Astro",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My ideal job would allow me to work in a team where everyone can contribute in the areas they know the most, mixing a group of different people that can create and improve a product. I would love to work in a place where everyone is easily accessible, no matter what department you are working for, so communication is easy. \nAlso, having the capacity of working in another language than my mother tongue would be ideal for me."
   }
 }
